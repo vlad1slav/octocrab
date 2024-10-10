@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.41.1](https://github.com/vlad1slav/octocrab/compare/v0.41.0...v0.41.1) - 2024-10-10
+
+### Fixed
+
+- don't capture backtraces by default ([#710](https://github.com/vlad1slav/octocrab/pull/710))
+
+### Other
+
+- [#552](https://github.com/vlad1slav/octocrab/pull/552) (emails, public_emails, visibility) ([#712](https://github.com/vlad1slav/octocrab/pull/712))
+- make some fields to public ([#708](https://github.com/vlad1slav/octocrab/pull/708))
+- Implement some style improvements ([#698](https://github.com/vlad1slav/octocrab/pull/698))
+
 ## [0.41.0](https://github.com/XAMPPRocky/octocrab/compare/v0.40.0...v0.41.0) - 2024-09-30
 
 ### Added
